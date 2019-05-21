@@ -1,5 +1,11 @@
 spring:
+  profiles:
+    active: @spring.active@
   devtools:
     restart:
       enabled: true
       additional-paths: src/main/java
+
+log:
+  path: app-logs
+

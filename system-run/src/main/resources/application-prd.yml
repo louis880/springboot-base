@@ -1,0 +1,2 @@
+system-core:
+  swagger-open: false              #是否开启swagger (true/false)
