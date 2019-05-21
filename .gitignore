@@ -11,4 +11,7 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 .idea
+system-run/.mvn
+system-business/.mvn
+system-core/.mvn
 

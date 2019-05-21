@@ -20,7 +20,7 @@
         <!--core-->
         <dependency>
             <groupId>com.pad</groupId>
-            <artifactId>core</artifactId>
+            <artifactId>system-core</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
 
