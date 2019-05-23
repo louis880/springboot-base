@@ -17,4 +17,5 @@ public class SystemProperties {
 
     private Boolean swaggerOpen = false;
 
+
 }
